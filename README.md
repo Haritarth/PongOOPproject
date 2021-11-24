@@ -1,4 +1,4 @@
-# PongOOPproject
+# Pong - OOP project
 A simple arcade game of Pong made in JAVA Applet
 
 
